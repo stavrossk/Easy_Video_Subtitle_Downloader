@@ -1,11 +1,15 @@
 ﻿
 
-using CookComputing.XmlRpc;
 
 // ReSharper disable CheckNamespace
+
+using CookComputing.XmlRpc;
+
 namespace VideoSubtitleDownloader
 // ReSharper restore CheckNamespace
 {
+
+
 
 
     public struct LoginResult
